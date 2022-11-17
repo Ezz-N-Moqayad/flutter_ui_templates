@@ -3,7 +3,6 @@ import 'package:best_flutter_ui_templates/fitness_app/ui_view/running_view.dart'
 import 'package:best_flutter_ui_templates/fitness_app/ui_view/title_view.dart';
 import 'package:best_flutter_ui_templates/fitness_app/ui_view/workout_view.dart';
 import 'package:flutter/material.dart';
-
 import '../fitness_app_theme.dart';
 
 class TrainingScreen extends StatefulWidget {
